@@ -10,4 +10,12 @@ I'm a graduate student at **Stevens Institute of Technology**, currently pursuin
 - **Computer Vision Annotation Tool (CVAT)**: Adept at annotating and preparing datasets for computer vision projects.
 - **Roboflow**: Competent in using Roboflow for dataset management and model training.
 - **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
-- **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing. 
+- **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing.
+
+## Certificates
+- **IBM** – Deep Learning with TensorFlow 
+- **IBM** – Computer Vision and Image Processing Essentials 
+- **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
+- **Microsoft** – Computer Vision with Microsoft Azure 
+- **Columbia University** – Visual Perception 
+- **Edge Impulse** – Computer Vision with Embedded Machine Learning
