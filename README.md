@@ -12,7 +12,7 @@ I'm a graduate student at **Stevens Institute of Technology**, currently pursuin
 - **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
 - **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing.
 
-## Certificates
+## 📃 Certificates
 - **IBM** – Deep Learning with TensorFlow 
 - **IBM** – Computer Vision and Image Processing Essentials 
 - **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
