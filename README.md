@@ -9,4 +9,4 @@ I'm a graduate student at **Stevens Institute of Technology**, currently pursuin
 - **iScout Sport Tracking**: Experienced in sports data tracking and analysis.
 - **Computer Vision Annotation Tool**: Adept at annotating and preparing datasets for computer vision projects.
 - **Roboflow**: Competent in using Roboflow for dataset management and model training.
-
+- **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools. 
