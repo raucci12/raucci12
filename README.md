@@ -10,4 +10,4 @@ I'm a graduate student at **Stevens Institute of Technology**, currently pursuin
 - **Computer Vision Annotation Tool**: Adept at annotating and preparing datasets for computer vision projects.
 - **Roboflow**: Competent in using Roboflow for dataset management and model training.
 - **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
-- **FedEx Route Optmization (FRO)**: Familiarity with dynamic route optimization software. 
+- **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing. 
