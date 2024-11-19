@@ -10,8 +10,9 @@ I'm a graduate student at **Stevens Institute of Technology**, currently pursuin
 - **Computer Vision Annotation Tool (CVAT)**: Adept at annotating and preparing datasets for computer vision projects.
 - **Roboflow**: Competent in using Roboflow for dataset management and model training.
 - **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
+- **RapidMiner AI Studio**: Used to streamline data cleaning, visualizations, and auto-Machine Learning on large data sets.
 - **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing.
-- **RapidMiner AI Studio**: Used to streamline data cleaning, visualizations, and auto-Machine Learning on large data sets. 
+ 
 
 ## 📃 Certificates
 - **IBM** – Deep Learning with TensorFlow 
