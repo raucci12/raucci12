@@ -1,7 +1,7 @@
 # 👋 Mike Raucci
 
 ## 🎓 About Me
-I'm a graduate student at **Stevens Institute of Technology**, currently pursuing a degree in **Data Science**. I have a passion for developing cutting-edge **Computer Vision applications** and **Machine Learning algorithms** to analyze sports and other fascinating areas. I thrive on solving complex problems and turning data into actionable insights.
+Earned my Master's Degree in Data Science from Stevens Institute of Technology. I have a passion for developing cutting-edge **Computer Vision applications** and **Machine Learning algorithms** to analyze sports and other fascinating areas. I thrive on solving complex problems and turning data into actionable insights.
 
 ## 🛠️ Skills
 - **Python**: Proficient in BeautifulSoup, ultralytics, pandas, matplotlib, seaborn, and many more.
