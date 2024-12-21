@@ -1,4 +1,4 @@
-# 👋 Mike Raucci
+# Mike Raucci
 
 ## 🎓 About Me
 Earned a **Master's degree in Data Science** from Stevens Institute of Technology. I have a passion for developing cutting-edge **Computer Vision applications** and **Machine Learning algorithms** to analyze sports and other fascinating areas. I thrive on solving complex problems and turning data into actionable insights.
