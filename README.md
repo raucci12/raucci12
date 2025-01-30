@@ -1,7 +1,7 @@
 # Mike Raucci
 
 ## 🎓 About Me
-Earned a **Master's degree in Data Science** from Stevens Institute of Technology. I am passionate about developing advanced computer vision applications and machine learning algorithms that extract meaningful insights from complex datasets. My experience includes working with both structured and unstructured data, with particular focus on implementing computer vision solutions and predictive analytics models to solve real-world problems.
+Earned a **Master's degree in Data Science** from Stevens Institute of Technology. I am passionate about developing advanced **computer vision applications** and **machine learning algorithms** that extract meaningful insights from complex datasets. My experience includes working with both **structured and unstructured data**, with particular focus on implementing computer vision solutions and predictive analytics models to **solve real-world problems**.
 
 ## 🛠️ Skills
 - **Python**: Proficient in TensorFlow, BeautifulSoup, PyTorch, pandas, matplotlib, Keras, scipy, and many more.
