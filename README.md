@@ -50,7 +50,7 @@ Collection of sports data projects:
 - NBA outcome prediction model
 - Web scraping and data cleaning implementations
 
-- ## 📃 Certificates
+## 📃 Certificates
 - **IBM** – Deep Learning with TensorFlow 
 - **IBM** – Computer Vision and Image Processing Essentials 
 - **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
@@ -58,9 +58,3 @@ Collection of sports data projects:
 - **Columbia University** – Visual Perception 
 - **Edge Impulse** – Computer Vision with Embedded Machine Learning
 
-## 💻 Technical Skills
-```python
-languages = ['Python', 'R', 'SQL']
-libraries = ['TensorFlow', 'YOLOv8', 'scikit-learn', 'pandas']
-tools = ['Git', 'CVAT.ai', 'Jupyter Notebooks']
-skills = ['Database Management', 'Statistical Analysis', 'Machine Learning']
