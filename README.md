@@ -12,15 +12,6 @@ Earned a **Master's degree in Data Science** from Stevens Institute of Technolog
 - **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
 - **RapidMiner AI Studio**: Used to streamline data cleaning, visualizations, and auto-Machine Learning on large data sets.
 - **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing.
- 
-
-## 📃 Certificates
-- **IBM** – Deep Learning with TensorFlow 
-- **IBM** – Computer Vision and Image Processing Essentials 
-- **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
-- **Microsoft** – Computer Vision with Microsoft Azure 
-- **Columbia University** – Visual Perception 
-- **Edge Impulse** – Computer Vision with Embedded Machine Learning
 
 ## 🔧 Technical Focus Areas
 - Machine Learning & Deep Learning
@@ -58,6 +49,14 @@ Collection of sports data projects:
 - MiLB data pipeline and analysis
 - NBA outcome prediction model
 - Web scraping and data cleaning implementations
+
+- ## 📃 Certificates
+- **IBM** – Deep Learning with TensorFlow 
+- **IBM** – Computer Vision and Image Processing Essentials 
+- **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
+- **Microsoft** – Computer Vision with Microsoft Azure 
+- **Columbia University** – Visual Perception 
+- **Edge Impulse** – Computer Vision with Embedded Machine Learning
 
 ## 💻 Technical Skills
 ```python
