@@ -27,7 +27,7 @@ YOLOv8-powered object detection and pose estimation pipeline that analyzes athle
 ---
 
 ### 🤖 ChatTRS
-**Enterprise LLM-powered chatbot for institutional knowledge management** &nbsp;·&nbsp; 🔒 *Proprietary — code not publicly available*
+**Enterprise LLM-powered chatbot for institutional knowledge management** &nbsp;·&nbsp; 🔒 *Proprietary (TRS) — code not publicly available*
 
 Internal chatbot deployed across a large public institution to automate knowledge retrieval and streamline staff workflows. Built end-to-end: prompt library architecture, usage analytics pipeline, data extraction and enrichment, and multi-sheet dashboard reporting. Supported AI modernization across multiple departments.
 
@@ -36,7 +36,7 @@ Internal chatbot deployed across a large public institution to automate knowledg
 ---
 
 ### 📄 Index Card Digitization Pipeline
-**Document intelligence pipeline for physical record digitization** &nbsp;·&nbsp; 🔒 *Proprietary — code not publicly available*
+**Document intelligence pipeline for physical record digitization** &nbsp;·&nbsp; 🔒 *Proprietary (TRS) — code not publicly available*
 
 Designed and implemented a full document intelligence pipeline to extract structured data from physical index card records. Developed custom extraction schemas per department specifications, built training and testing datasets, trained a neural network for targeted field detection, and deployed to production in 2025.
 
