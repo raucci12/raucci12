@@ -1,60 +1,134 @@
 # Mike Raucci
+### AI/ML Engineer · Sports Technology · Computer Vision
 
-## 🎓 About Me
-Earned a **Master's degree in Data Science** from Stevens Institute of Technology. I am passionate about developing advanced **computer vision applications** and **machine learning algorithms** that extract meaningful insights from complex datasets. My experience includes working with both **structured and unstructured data**, with particular focus on implementing computer vision solutions and predictive analytics models to **solve real-world problems**.
+> Building machine learning systems at the intersection of **sports data**, **computer vision**, and **enterprise AI**. Focused on turning complex datasets into production-ready tools that actually move the needle.
 
-## 🛠️ Skills
-- **Python**: Proficient in TensorFlow, BeautifulSoup, PyTorch, pandas, matplotlib, Keras, scipy, and many more.
-- **R**: Skilled in data analysis and visualization.
-- **iScout Sport Tracking**: Experienced in sports data tracking and analysis.
-- **Computer Vision Annotation Tool (CVAT)**: Adept at annotating and preparing datasets for computer vision projects.
-- **Roboflow**: Competent in using Roboflow for dataset management and model training.
-- **MS Visual Studio**: Skilled in coding, debugging, unit testing, and utilizing AI productivity tools.
-- **RapidMiner AI Studio**: Used to streamline data cleaning, visualizations, and auto-Machine Learning on large data sets.
-- **Dynamic Route Optmization (DRO)**: Familiarity with dynamic route optimization software used in delivery routing.
+---
 
-## 🔧 Technical Focus Areas
-- Machine Learning & Deep Learning
-- Computer Vision Applications in Sports
-- Time Series Analysis
-- Sports Analytics & Predictive Modeling
-- Data Pipeline Development
+## About
 
-## 🌟 Featured Projects
+I'm an AI/ML Engineer with a Master's in Data Science from Stevens Institute of Technology and a background in sports data, computer vision, and institutional AI deployment. My work spans object detection pipelines, neural network development, real-time sports data tracking, and large-scale enterprise AI tooling.
 
-### 🎥 CoachCV
-Computer vision application designed to correct user form in Olympic weightlifting
-- Utilizes YOLOv8 object detection for real-time form assessment
-- Frame-by-frame analysis using CVAT.ai for annotation
-- Provides automated coaching feedback based on detected movements
-- Tech stack: Python, YOLOv8, CVAT.ai
+Currently leading AI development at a major public institution in New York City — building LLM-powered chatbots, document intelligence pipelines, and analytics infrastructure. Outside of that, I'm deep in sports technology: building computer vision applications for athletic performance, training neural networks on sports betting data, and engineering sports data pipelines from scratch.
+
+I've tracked live professional basketball, baseball, and volleyball matches using iScout technology at Sportradar — which means I understand sports data not just analytically, but operationally.
+
+---
+
+## Featured Projects
+
+### 🏋️ CoachCV
+**Computer vision application for Olympic weightlifting form correction**
+
+YOLOv8-powered object detection and pose estimation pipeline that analyzes athlete form during the Clean and Jerk. Videos annotated frame-by-frame in CVAT, with a custom-trained model detecting key positional landmarks and flagging form deviations in real time. Architecture designed for extension into additional sport-specific movement patterns.
+
+`Python` `YOLOv8` `CVAT` `Pose Estimation` `Object Detection`
+
+---
+
+### 🤖 ChatTRS
+**Enterprise LLM-powered chatbot for institutional knowledge management**
+
+Internal chatbot deployed across a large public institution to automate knowledge retrieval and streamline staff workflows. Built end-to-end: prompt library architecture, usage analytics pipeline, data extraction and enrichment, and multi-sheet dashboard reporting. Supported AI modernization across multiple departments.
+
+`Python` `Azure AI Services` `LLMs` `Prompt Engineering` `Analytics`
+
+---
+
+### 📄 Index Card Digitization Pipeline
+**Document intelligence pipeline for physical record digitization**
+
+Designed and implemented a full document intelligence pipeline to extract structured data from physical index card records. Developed custom extraction schemas per department specifications, built training and testing datasets, trained a neural network for targeted field detection, and deployed to production in 2025.
+
+`Python` `Azure Document Intelligence` `Neural Networks` `CVAT` `Schema Design`
+
+---
 
 ### 🎾 Tennis Neural Network
-Neural network trained on WTA Grand Slam match statistics and betting data
-- Batch normalization and L2 regularization
-- Custom feature engineering for player statistics
-- Cross-validation implementation
-- Interactive GUI for prediction inputs
-- Tech stack: Python, TensorFlow, scikit-learn
+**ANN predicting WTA match odds from Grand Slam statistics and betting data**
 
-### 📈 Time Series Analysis
-Auto-Regressive and Moving Average models for sports statistics
-- Implementation in R
-- Focus on sports statistics and financial data
-- Stock price analysis using statistical methods
+Artificial neural network trained on WTA Grand Slam match statistics and Bet365 betting data. Implements k-fold cross-validation, batch normalization, L2 regularization, and an engineered feature set including rank ratios, log transforms, and differential metrics. Includes an interactive Tkinter GUI for prediction input.
 
-### ⚾ Sports Analytics Portfolio
-Collection of sports data projects:
-- Player analysis for WTA athletes
-- MiLB data pipeline and analysis
-- NBA outcome prediction model
-- Web scraping and data cleaning implementations
+`Python` `TensorFlow` `Keras` `scikit-learn` `Feature Engineering`
 
-## 📃 Certificates
-- **IBM** – Deep Learning with TensorFlow 
-- **IBM** – Computer Vision and Image Processing Essentials 
-- **IBM** – Introduction to Intelligent Virtual Agents with IBM watsonx Assistant 
-- **Microsoft** – Computer Vision with Microsoft Azure 
-- **Columbia University** – Visual Perception 
-- **Edge Impulse** – Computer Vision with Embedded Machine Learning
+---
 
+### 🎾 WTA Player Analysis — Jasmine Paolini
+**In-depth performance profiling and comparative analysis**
+
+Comprehensive performance profile of WTA superstar Jasmine Paolini benchmarked against Aryna Sabalenka and Qinwen Zheng. Examines match statistics, surface performance, and competitive tendencies to identify strategic patterns across elite competition.
+
+`Python` `Pandas` `Sports Analytics` `Player Profiling`
+
+---
+
+### ⚾ MiLB Data Pipeline
+**End-to-end sports data engineering for the 2023 AAA season**
+
+Web scraped, concatenated, and cleaned MiLB pitching and hitting datasets across the full 2023 AAA season. Exploratory analysis identifying performance trends and statistical distributions across minor league talent pools.
+
+`Python` `Jupyter` `BeautifulSoup` `Data Engineering` `Web Scraping`
+
+---
+
+### 🏀 NBA Outcome Model
+**Linear regression model for NBA point spreads and totals**
+
+Trained on historical game data to predict NBA point spreads and game totals. Demonstrates core sports predictive modeling methodology.
+
+`Python` `scikit-learn` `Predictive Modeling` `Sports Analytics`
+
+---
+
+### 📈 Time Series & Stock Analysis
+**ARIMA and moving average models applied to sports and financial data**
+
+Applied Auto-Regressive and Moving Average models for time series forecasting. Separate analysis of stock price trends using statistical methods and visualization in R.
+
+`R` `ARIMA` `Time Series` `Statistical Modeling`
+
+---
+
+## Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Languages** | Python, R, SQL |
+| **ML & AI** | TensorFlow, Keras, YOLOv8, scikit-learn, PyTorch, Neural Networks |
+| **Computer Vision** | CVAT, Roboflow, Pose Estimation, Object Detection |
+| **Cloud & Platforms** | Microsoft Azure, Azure AI Services, Azure Document Intelligence, IBM watsonx |
+| **Sports Technology** | iScout, Sports Data Tracking, Player Profiling, Athlete Performance Modeling |
+| **Data Engineering** | pandas, BeautifulSoup, ETL Pipelines, Data Cleaning |
+| **Environments** | VS Code, Jupyter, RapidMiner AI Studio |
+
+---
+
+## Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Microsoft Azure AI Essentials Professional Certificate | Microsoft & LinkedIn |
+| Computer Vision with Microsoft Azure | Microsoft |
+| Deep Learning with TensorFlow | IBM |
+| Computer Vision and Image Processing Essentials | IBM |
+| Introduction to Intelligent Virtual Agents with IBM watsonx Assistant | IBM |
+| Computer Vision with Embedded Machine Learning | Edge Impulse |
+| Visual Perception | Columbia University |
+| Implementing a Data Strategy for Responsible AI | LinkedIn |
+| Applying AI as a Tech Leader | LinkedIn |
+| Understanding Generative AI for Tech Leaders | LinkedIn |
+| AI for Managers | LinkedIn |
+
+---
+
+## Education
+
+**M.S. Data Science** — Stevens Institute of Technology
+*Augmented Intelligence & Generative AI · Deep Learning · Big Data Technologies · Time Series Analysis · Optimization · Statistical Methods*
+
+**B.S. Sport Management** — St. John's University
+*Sports Analytics · Stadium & Arena Management*
+
+---
+
+*Currently based in New York City. Open to sports technology roles in computer vision, ML engineering, and sports analytics.*
